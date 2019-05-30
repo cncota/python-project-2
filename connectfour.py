@@ -1,8 +1,6 @@
-# Kenny Matsudo 28917382 and Claudia Cota 60341850
+
 # connectfour.py
-#
-# ICS 32 Fall 2015
-# Project #2: Send Me On My Way
+
 
 '''
 This module contains the game logic that underlies a Connect Four

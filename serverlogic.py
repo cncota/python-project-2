@@ -1,4 +1,4 @@
-# Kenny Matsudo 28917382 and Claudia Cota 60341850
+
 
 from collections import namedtuple
 import socket
